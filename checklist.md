@@ -18,6 +18,7 @@ Though we want to help, and we will help you with phrasing and all that, we want
 * I understand that my CV should not contain references or contact details of other people
 * I have used Grammarly to correct mistakes before sending the CV for a review
 * I understand that my CV should be in PDF format
+* I understand that punctuation and formatting is important, and I checked that everything is homogenously formatted
 
 
 ## Before you ask for feedback, please explain what have you done so far and how you have changed your resume based on the guides provided in the links above.
