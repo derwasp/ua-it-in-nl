@@ -13,9 +13,11 @@ Though we want to help, and we will help you with phrasing and all that, we want
 * I understand that each position should contain **achievements** and not **responsibilities**
 * I understand that if I have at least 3 years of experience, my CV MUST  be at least 60% achievements-oriented
 * I understand that my CV shouldn't contain information about my driver's license, my hobbies, my full physical address, skype, telegram, memes, emojis and so on
+* I understand that my CV must contain my email address and maybe a link to my linkedin profile
 * I understand that my CV should not contain references or contact details of other people
 * I have used Grammarly to correct mistakes before sending the CV for a review
 * I understand that my CV should be in PDF format
+
 
 ## Before you ask for feedback, please explain what have you done so far and how you have changed your resume based on the guides provided in the links above.
 
