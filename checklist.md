@@ -6,7 +6,7 @@ Though we want to help, and we will help you with phrasing and all that, we want
 ## The actual list
 * I read https://www.careercup.com/resume
 * I watched the explanation video https://www.youtube.com/watch?v=JpDaZD8uPJk
-* I read the explanation by Ksenia: https://t.me/ukrainian_it_relocating_nl/2164
+* I read the explanation by Ksenia: https://t.me/ukrainian_it_nl/2164
 * I understand that my CV has to be 1 page long
 * I understand that my CV should not contain photos
 * I understand that my CV doesn't need an objective, and it's clear that when I am applying for a position that this position is an objective
