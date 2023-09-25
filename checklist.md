@@ -13,6 +13,7 @@ Though we want to help, and we will help you with phrasing and all that, we want
 * I understand that each position should contain **achievements** and not **responsibilities**
 * I understand that the **achievements** stated should be **my own** and not team's achievements
 * I understand that if I have at least 3 years of experience, my CV MUST  be at least 60% achievements-oriented
+* I understand that the order of achievements should be by importance, not by time(more significant at the top)
 * I understand that my CV shouldn't contain information about my driver's license, my hobbies, my full physical address, skype, telegram, memes, emojis and so on
 * I understand that my CV must contain my email address and maybe a link to my linkedin profile
 * I understand that my CV should not contain references or contact details of other people
