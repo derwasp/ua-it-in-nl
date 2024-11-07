@@ -4,7 +4,7 @@ This checklist contains points you have to do before you request a CV review fro
 Though we want to help, and we will help you with phrasing and all that, we want you to understand the end goal as much as possible.
 
 ## The actual list
-* I read https://www.careercup.com/resume
+* I read [https://www.careercup.com/resume](https://web.archive.org/web/20240127084138/https://www.careercup.com/resume)
 * I watched the explanation video https://www.youtube.com/watch?v=JpDaZD8uPJk
 * I read the explanation by Ksenia: https://t.me/ukrainian_it_nl/2164
 * I understand that my CV has to be 1 page long
